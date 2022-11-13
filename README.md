@@ -23,12 +23,12 @@ Visual Studio Code yeni özellikler ve hata düzeltmeleri ile aylık olarak gün
 
 Bu projeye katılabilmeniz için birçok yol vardır, örneğin:
 
-* [Hataları ve özellik isteklerini gönderin] (https://github.com/microsoft/vscode/issues) ve kontrol edildikçe doğrulamamıza yardımcı olun
+* [Hataları ve özellik isteklerini gönderin](https://github.com/microsoft/vscode/issues) ve kontrol edildikçe doğrulamamıza yardımcı olun
 * [Kaynak kodu değişikliklerini gözden geçirin](https://github.com/microsoft/vscode/pulls)
 * [Belgeleri](https://github.com/microsoft/vscode-docs) gözden geçirin ve yazım hatalarından ek ve yeni içeriğe kadar her şey için çekme isteklerinde bulunun
 
 Sorunları düzeltmek ve kod tabanına doğrudan katkıda bulunmakla ilgileniyorsanız,
-lütfen aşağıdakileri kapsayan [Nasıl Katkıda Bulunulur] (https://github.com/microsoft/vscode/wiki/How-to-Contribute) belgesine bakın:
+lütfen aşağıdakileri kapsayan [Nasıl Katkıda Bulunulur](https://github.com/microsoft/vscode/wiki/How-to-Contribute) belgesine bakın:
 
 * [Kaynaktan nasıl derlenir ve çalıştırılır](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
 * [Hata ayıklama ve test çalıştırma dahil olmak üzere geliştirme iş akışı](https://github.com/microsoft/vscode/wiki/How-to-Contribute#debugging)
@@ -39,7 +39,7 @@ lütfen aşağıdakileri kapsayan [Nasıl Katkıda Bulunulur] (https://github.co
 
 ## Geri bildirim
 
-* [Stack Overflow]'a soru sorun (https://stackoverflow.com/questions/tagged/vscode)
+* [Stack Overflow]'a soru sorun(https://stackoverflow.com/questions/tagged/vscode)
 * [Yeni bir özellik talep edin](CONTRIBUTING.md)
 * Upvote [popüler özellik istekleri](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 * [Sorun bildir](https://github.com/microsoft/vscode/issues)
