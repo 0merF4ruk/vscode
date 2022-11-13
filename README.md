@@ -24,8 +24,8 @@ Visual Studio Code yeni özellikler ve hata düzeltmeleri ile aylık olarak gün
 Bu projeye katılabilmeniz için birçok yol vardır, örneğin:
 
 * [Hataları ve özellik isteklerini gönderin] (https://github.com/microsoft/vscode/issues) ve kontrol edildikçe doğrulamamıza yardımcı olun
-* Kaynak kodu değişikliklerini gözden geçirin](https://github.com/microsoft/vscode/pulls)
-* Belgeleri] (https://github.com/microsoft/vscode-docs) gözden geçirin ve yazım hatalarından ek ve yeni içeriğe kadar her şey için çekme isteklerinde bulunun
+* [Kaynak kodu değişikliklerini gözden geçirin](https://github.com/microsoft/vscode/pulls)
+* [Belgeleri](https://github.com/microsoft/vscode-docs) gözden geçirin ve yazım hatalarından ek ve yeni içeriğe kadar her şey için çekme isteklerinde bulunun
 
 Sorunları düzeltmek ve kod tabanına doğrudan katkıda bulunmakla ilgileniyorsanız,
 lütfen aşağıdakileri kapsayan [Nasıl Katkıda Bulunulur] (https://github.com/microsoft/vscode/wiki/How-to-Contribute) belgesine bakın:
